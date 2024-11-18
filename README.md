@@ -21,7 +21,7 @@ The program provides an interface for executing custom scripts within the Roblox
 * Programming Languages: Lua
 
 # **Installation:**
-1. Follow manual from [HERE](https://teletype.in/@okarun/7bJdFdG32OH)
+1. Follow manual from [HERE](https://teletype.in/@okarun/UeRhkkv9cNp)
 
 # **Disclaimer:**
 
