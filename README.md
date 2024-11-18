@@ -20,7 +20,7 @@ The program provides an interface for executing custom scripts within the Roblox
 * Dependencies:  (List any external libraries or programs required)
 * Programming Languages: Lua
 
-**Installation:**
+# **Installation:**
 1. Follow manual from [HERE](https://teletype.in/@okarun/7bJdFdG32OH)
 
 **Disclaimer:**
