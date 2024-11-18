@@ -23,7 +23,7 @@ The program provides an interface for executing custom scripts within the Roblox
 # **Installation:**
 1. Follow manual from [HERE](https://teletype.in/@okarun/7bJdFdG32OH)
 
-**Disclaimer:**
+# **Disclaimer:**
 
 Antivirus software may detect Lunar Executor as potentially unwanted software or a false positive. This is due to the nature of the program and its interaction with game processes.  Disabling your antivirus before running Lunar Executor is at your own risk.  We do not guarantee the program's compatibility with all antivirus software.
 
